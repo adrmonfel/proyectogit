@@ -1,2 +1,3 @@
 Archivo B - texto aleatorio: w3x8r1z6
 Creado por Persona A en la rama develop.
+Modificado por Persona B en la rama B2 (worktree).
