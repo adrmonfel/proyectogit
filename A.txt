@@ -1,2 +1,3 @@
 Archivo A - texto aleatorio: 4k7m2p9q
 Creado por Persona A en la rama develop.
+Modificado por Persona A en la rama A2 (worktree).
